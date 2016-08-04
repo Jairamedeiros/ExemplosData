@@ -59,8 +59,6 @@ public class Exemplo1 extends JFrame {
             JFrame janela = new Exemplo1();
             janela.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             janela.setVisible(true);
-           
-        
-    
+          
    }
 }
