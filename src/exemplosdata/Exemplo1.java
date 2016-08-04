@@ -32,7 +32,6 @@ public class Exemplo1 extends JFrame {
         add(btMostrar,"North");
         agora = new Date();
     
-        
     }
 
     private void definirEventos() {
@@ -48,8 +47,7 @@ public class Exemplo1 extends JFrame {
                 "\nAnos: " + tempo/MILI_SEGUNDOS_POR_DIA/365 +
                 "\nData: " + novaData);        
                 
-
-               
+              
             }
         });
         
